@@ -1,0 +1,2052 @@
+[
+  {
+    "id": 1,
+    "name": "ChatGPT",
+    "useCase": ["Text Generation", "Conversational AI", "Code Generation"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://chat.openai.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Advanced conversational AI for text generation, coding, and problem-solving"
+  },
+  {
+    "id": 2,
+    "name": "DALL-E 3",
+    "useCase": ["Image Generation"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://openai.com/dall-e-3",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered image generation from text descriptions"
+  },
+  {
+    "id": 3,
+    "name": "Midjourney",
+    "useCase": ["Image Generation", "Art Creation"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://midjourney.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "High-quality AI art and image generation platform"
+  },
+  {
+    "id": 4,
+    "name": "GitHub Copilot",
+    "useCase": ["Code Generation", "Programming Assistant"],
+    "toolType": "IDE Extension",
+    "pricing": "Paid",
+    "link": "https://github.com/features/copilot",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI pair programmer for code completion and generation"
+  },
+  {
+    "id": 5,
+    "name": "Grammarly",
+    "useCase": ["Text Editing", "Writing Assistant"],
+    "toolType": "Browser Extension",
+    "pricing": "Freemium",
+    "link": "https://grammarly.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered writing assistant for grammar and style"
+  },
+  {
+    "id": 6,
+    "name": "Notion AI",
+    "useCase": ["Text Generation", "Productivity"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://notion.so/product/ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI writing assistant integrated into Notion workspace"
+  },
+  {
+    "id": 7,
+    "name": "Stable Diffusion",
+    "useCase": ["Image Generation"],
+    "toolType": "Open Source",
+    "pricing": "Free",
+    "link": "https://stability.ai/stable-diffusion",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Open-source text-to-image generation model"
+  },
+  {
+    "id": 8,
+    "name": "Claude",
+    "useCase": ["Text Generation", "Conversational AI"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://claude.ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI assistant for analysis, writing, and coding"
+  },
+  {
+    "id": 9,
+    "name": "Jasper",
+    "useCase": ["Content Creation", "Marketing"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://jasper.ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI content creation platform for marketing teams"
+  },
+  {
+    "id": 10,
+    "name": "Copy.ai",
+    "useCase": ["Content Creation", "Marketing"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://copy.ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI copywriting tool for marketing content"
+  },
+  {
+    "id": 11,
+    "name": "Runway ML",
+    "useCase": ["Video Generation", "Image Editing"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://runwayml.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered creative tools for video and image editing"
+  },
+  {
+    "id": 12,
+    "name": "Loom AI",
+    "useCase": ["Video Editing", "Transcription"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://loom.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-enhanced video recording and editing platform"
+  },
+  {
+    "id": 13,
+    "name": "Otter.ai",
+    "useCase": ["Transcription", "Meeting Notes"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://otter.ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered meeting transcription and note-taking"
+  },
+  {
+    "id": 14,
+    "name": "Canva AI",
+    "useCase": ["Design", "Image Generation"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://canva.com/ai-image-generator",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI design tools integrated into Canva platform"
+  },
+  {
+    "id": 15,
+    "name": "Figma AI",
+    "useCase": ["Design", "Prototyping"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://figma.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered design and prototyping tools"
+  },
+  {
+    "id": 16,
+    "name": "Perplexity AI",
+    "useCase": ["Research", "Question Answering"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://perplexity.ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered search and research assistant"
+  },
+  {
+    "id": 17,
+    "name": "Synthesia",
+    "useCase": ["Video Generation", "Avatar Creation"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://synthesia.io",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI video generation with virtual avatars"
+  },
+  {
+    "id": 18,
+    "name": "ElevenLabs",
+    "useCase": ["Voice Synthesis", "Audio Generation"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://elevenlabs.io",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI voice synthesis and cloning platform"
+  },
+  {
+    "id": 19,
+    "name": "Murf AI",
+    "useCase": ["Voice Synthesis", "Text-to-Speech"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://murf.ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI voice generator for voiceovers and narration"
+  },
+  {
+    "id": 20,
+    "name": "Descript",
+    "useCase": ["Audio Editing", "Video Editing", "Transcription"],
+    "toolType": "Desktop Application",
+    "pricing": "Freemium",
+    "link": "https://descript.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered audio and video editing with transcription"
+  },
+  {
+    "id": 21,
+    "name": "Writesonic",
+    "useCase": ["Content Creation", "SEO"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://writesonic.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI writing platform for content and SEO optimization"
+  },
+  {
+    "id": 22,
+    "name": "Rytr",
+    "useCase": ["Content Creation", "Writing Assistant"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://rytr.me",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI writing assistant for various content types"
+  },
+  {
+    "id": 23,
+    "name": "QuillBot",
+    "useCase": ["Text Editing", "Paraphrasing"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://quillbot.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered paraphrasing and writing enhancement tool"
+  },
+  {
+    "id": 24,
+    "name": "Tome",
+    "useCase": ["Presentation", "Content Creation"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://tome.app",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered presentation and storytelling platform"
+  },
+  {
+    "id": 25,
+    "name": "Beautiful.AI",
+    "useCase": ["Presentation", "Design"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://beautiful.ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-assisted presentation design platform"
+  },
+  {
+    "id": 26,
+    "name": "Gamma",
+    "useCase": ["Presentation", "Content Creation"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://gamma.app",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered presentation and document creation"
+  },
+  {
+    "id": 27,
+    "name": "Replit Ghostwriter",
+    "useCase": ["Code Generation", "Programming Assistant"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://replit.com/ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI coding assistant integrated into Replit IDE"
+  },
+  {
+    "id": 28,
+    "name": "Tabnine",
+    "useCase": ["Code Generation", "Programming Assistant"],
+    "toolType": "IDE Extension",
+    "pricing": "Freemium",
+    "link": "https://tabnine.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI code completion and generation for developers"
+  },
+  {
+    "id": 29,
+    "name": "Codeium",
+    "useCase": ["Code Generation", "Programming Assistant"],
+    "toolType": "IDE Extension",
+    "pricing": "Free",
+    "link": "https://codeium.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Free AI-powered code completion and chat"
+  },
+  {
+    "id": 30,
+    "name": "Amazon CodeWhisperer",
+    "useCase": ["Code Generation", "Programming Assistant"],
+    "toolType": "IDE Extension",
+    "pricing": "Freemium",
+    "link": "https://aws.amazon.com/codewhisperer",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI coding companion from Amazon Web Services"
+  },
+  {
+    "id": 31,
+    "name": "Fireflies.ai",
+    "useCase": ["Meeting Notes", "Transcription"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://fireflies.ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI meeting assistant for note-taking and analysis"
+  },
+  {
+    "id": 32,
+    "name": "Fathom",
+    "useCase": ["Meeting Notes", "Transcription"],
+    "toolType": "Web-based",
+    "pricing": "Free",
+    "link": "https://fathom.video",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Free AI meeting recorder and summarizer"
+  },
+  {
+    "id": 33,
+    "name": "Krisp",
+    "useCase": ["Audio Enhancement", "Noise Cancellation"],
+    "toolType": "Desktop Application",
+    "pricing": "Freemium",
+    "link": "https://krisp.ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered noise cancellation for calls"
+  },
+  {
+    "id": 34,
+    "name": "Topaz Labs",
+    "useCase": ["Image Enhancement", "Photo Editing"],
+    "toolType": "Desktop Application",
+    "pricing": "Paid",
+    "link": "https://topazlabs.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered photo enhancement and upscaling"
+  },
+  {
+    "id": 35,
+    "name": "Upscayl",
+    "useCase": ["Image Enhancement", "Upscaling"],
+    "toolType": "Desktop Application",
+    "pricing": "Free",
+    "link": "https://upscayl.github.io",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Free AI image upscaler for desktop"
+  },
+  {
+    "id": 36,
+    "name": "Remove.bg",
+    "useCase": ["Image Editing", "Background Removal"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://remove.bg",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered background removal tool"
+  },
+  {
+    "id": 37,
+    "name": "Cleanup.pictures",
+    "useCase": ["Image Editing", "Object Removal"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://cleanup.pictures",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI tool for removing objects from photos"
+  },
+  {
+    "id": 38,
+    "name": "Photoshop AI",
+    "useCase": ["Image Editing", "Photo Enhancement"],
+    "toolType": "Desktop Application",
+    "pricing": "Paid",
+    "link": "https://adobe.com/products/photoshop",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI features integrated into Adobe Photoshop"
+  },
+  {
+    "id": 39,
+    "name": "Luminar AI",
+    "useCase": ["Photo Editing", "Image Enhancement"],
+    "toolType": "Desktop Application",
+    "pricing": "Paid",
+    "link": "https://skylum.com/luminar-ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered photo editing software"
+  },
+  {
+    "id": 40,
+    "name": "Lensa AI",
+    "useCase": ["Photo Editing", "Portrait Enhancement"],
+    "toolType": "Mobile App",
+    "pricing": "Freemium",
+    "link": "https://prisma-ai.com/lensa",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI photo editor for portraits and selfies"
+  },
+  {
+    "id": 41,
+    "name": "FaceApp",
+    "useCase": ["Photo Editing", "Face Transformation"],
+    "toolType": "Mobile App",
+    "pricing": "Freemium",
+    "link": "https://faceapp.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered face editing and transformation app"
+  },
+  {
+    "id": 42,
+    "name": "Artbreeder",
+    "useCase": ["Image Generation", "Art Creation"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://artbreeder.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Collaborative AI art creation platform"
+  },
+  {
+    "id": 43,
+    "name": "NightCafe",
+    "useCase": ["Image Generation", "Art Creation"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://nightcafe.studio",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI art generator with multiple algorithms"
+  },
+  {
+    "id": 44,
+    "name": "Craiyon",
+    "useCase": ["Image Generation"],
+    "toolType": "Web-based",
+    "pricing": "Free",
+    "link": "https://craiyon.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Free AI image generator (formerly DALL-E mini)"
+  },
+  {
+    "id": 45,
+    "name": "Leonardo AI",
+    "useCase": ["Image Generation", "Art Creation"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://leonardo.ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI image generation platform for creative projects"
+  },
+  {
+    "id": 46,
+    "name": "Playground AI",
+    "useCase": ["Image Generation", "Art Creation"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://playgroundai.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI image creation and editing playground"
+  },
+  {
+    "id": 47,
+    "name": "BlueWillow",
+    "useCase": ["Image Generation"],
+    "toolType": "Web-based",
+    "pricing": "Free",
+    "link": "https://bluewillow.ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Free AI image generation tool"
+  },
+  {
+    "id": 48,
+    "name": "Lexica",
+    "useCase": ["Image Generation", "Art Search"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://lexica.art",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI art search engine and generator"
+  },
+  {
+    "id": 49,
+    "name": "DreamStudio",
+    "useCase": ["Image Generation"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://dreamstudio.ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Official Stable Diffusion interface by Stability AI"
+  },
+  {
+    "id": 50,
+    "name": "Pika Labs",
+    "useCase": ["Video Generation"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://pika.art",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI video generation from text and images"
+  },
+  {
+    "id": 51,
+    "name": "Gen-2 by Runway",
+    "useCase": ["Video Generation"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://runwayml.com/ai-tools/gen-2",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Advanced AI video generation tool"
+  },
+  {
+    "id": 52,
+    "name": "Kaiber",
+    "useCase": ["Video Generation", "Music Videos"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://kaiber.ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI video generation for music and creative content"
+  },
+  {
+    "id": 53,
+    "name": "D-ID",
+    "useCase": ["Video Generation", "Avatar Creation"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://d-id.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered talking avatar generation"
+  },
+  {
+    "id": 54,
+    "name": "HeyGen",
+    "useCase": ["Video Generation", "Avatar Creation"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://heygen.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI video generation with customizable avatars"
+  },
+  {
+    "id": 55,
+    "name": "Pictory",
+    "useCase": ["Video Generation", "Content Creation"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://pictory.ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI video creation from text and articles"
+  },
+  {
+    "id": 56,
+    "name": "InVideo AI",
+    "useCase": ["Video Generation", "Video Editing"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://invideo.io/ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered video creation and editing platform"
+  },
+  {
+    "id": 57,
+    "name": "Fliki",
+    "useCase": ["Video Generation", "Text-to-Speech"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://fliki.ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI video and voiceover generation from text"
+  },
+  {
+    "id": 58,
+    "name": "Lumen5",
+    "useCase": ["Video Generation", "Social Media"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://lumen5.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI video creation for social media content"
+  },
+  {
+    "id": 59,
+    "name": "Animoto",
+    "useCase": ["Video Generation", "Marketing"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://animoto.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-assisted video creation for marketing"
+  },
+  {
+    "id": 60,
+    "name": "Speechify",
+    "useCase": ["Text-to-Speech", "Accessibility"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://speechify.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI text-to-speech for reading assistance"
+  },
+  {
+    "id": 61,
+    "name": "NaturalReader",
+    "useCase": ["Text-to-Speech", "Accessibility"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://naturalreader.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI text-to-speech software for various formats"
+  },
+  {
+    "id": 62,
+    "name": "Resemble AI",
+    "useCase": ["Voice Synthesis", "Voice Cloning"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://resemble.ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI voice cloning and synthesis platform"
+  },
+  {
+    "id": 63,
+    "name": "Replica Studios",
+    "useCase": ["Voice Synthesis", "Game Development"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://replicastudios.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI voice actors for games and media"
+  },
+  {
+    "id": 64,
+    "name": "Voicemod",
+    "useCase": ["Voice Modification", "Entertainment"],
+    "toolType": "Desktop Application",
+    "pricing": "Freemium",
+    "link": "https://voicemod.net",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Real-time voice changer with AI features"
+  },
+  {
+    "id": 65,
+    "name": "AIVA",
+    "useCase": ["Music Generation", "Composition"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://aiva.ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI music composition assistant"
+  },
+  {
+    "id": 66,
+    "name": "Amper Music",
+    "useCase": ["Music Generation", "Audio Production"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://ampermusic.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI music creation for content creators"
+  },
+  {
+    "id": 67,
+    "name": "Soundraw",
+    "useCase": ["Music Generation", "Royalty-Free Music"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://soundraw.io",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-generated royalty-free music platform"
+  },
+  {
+    "id": 68,
+    "name": "Boomy",
+    "useCase": ["Music Generation", "Music Creation"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://boomy.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI music creation and distribution platform"
+  },
+  {
+    "id": 69,
+    "name": "Endel",
+    "useCase": ["Music Generation", "Focus Music"],
+    "toolType": "Mobile App",
+    "pricing": "Freemium",
+    "link": "https://endel.io",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-generated adaptive music for focus and relaxation"
+  },
+  {
+    "id": 70,
+    "name": "Jukebox by OpenAI",
+    "useCase": ["Music Generation", "Audio Synthesis"],
+    "toolType": "Research Tool",
+    "pricing": "Free",
+    "link": "https://openai.com/research/jukebox",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI music generation research project by OpenAI"
+  },
+  {
+    "id": 71,
+    "name": "Sudowrite",
+    "useCase": ["Creative Writing", "Story Generation"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://sudowrite.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI writing assistant for creative fiction"
+  },
+  {
+    "id": 72,
+    "name": "NovelAI",
+    "useCase": ["Creative Writing", "Story Generation"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://novelai.net",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-assisted creative writing and storytelling"
+  },
+  {
+    "id": 73,
+    "name": "Wordtune",
+    "useCase": ["Text Editing", "Writing Enhancement"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://wordtune.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI writing companion for rewriting and editing"
+  },
+  {
+    "id": 74,
+    "name": "ProWritingAid",
+    "useCase": ["Text Editing", "Grammar Check"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://prowritingaid.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered writing analysis and improvement tool"
+  },
+  {
+    "id": 75,
+    "name": "Hemingway Editor",
+    "useCase": ["Text Editing", "Writing Clarity"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://hemingwayapp.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI writing tool for clarity and readability"
+  },
+  {
+    "id": 76,
+    "name": "Ginger",
+    "useCase": ["Text Editing", "Grammar Check"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://gingersoftware.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI grammar checker and writing enhancement"
+  },
+  {
+    "id": 77,
+    "name": "LanguageTool",
+    "useCase": ["Text Editing", "Grammar Check"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://languagetool.org",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI grammar and style checker for multiple languages"
+  },
+  {
+    "id": 78,
+    "name": "Scrivener",
+    "useCase": ["Writing Organization", "Research"],
+    "toolType": "Desktop Application",
+    "pricing": "Paid",
+    "link": "https://literatureandlatte.com/scrivener",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Writing software with AI-enhanced features"
+  },
+  {
+    "id": 79,
+    "name": "Ulysses",
+    "useCase": ["Writing Organization", "Text Editor"],
+    "toolType": "Desktop Application",
+    "pricing": "Paid",
+    "link": "https://ulysses.app",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Writing app with AI-powered features"
+  },
+  {
+    "id": 80,
+    "name": "Obsidian",
+    "useCase": ["Note Taking", "Knowledge Management"],
+    "toolType": "Desktop Application",
+    "pricing": "Freemium",
+    "link": "https://obsidian.md",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Knowledge management with AI plugins"
+  },
+  {
+    "id": 81,
+    "name": "Roam Research",
+    "useCase": ["Note Taking", "Knowledge Management"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://roamresearch.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-enhanced networked thought tool"
+  },
+  {
+    "id": 82,
+    "name": "Logseq",
+    "useCase": ["Note Taking", "Knowledge Management"],
+    "toolType": "Desktop Application",
+    "pricing": "Free",
+    "link": "https://logseq.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Open-source knowledge management with AI features"
+  },
+  {
+    "id": 83,
+    "name": "RemNote",
+    "useCase": ["Note Taking", "Spaced Repetition"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://remnote.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered note-taking and spaced repetition"
+  },
+  {
+    "id": 84,
+    "name": "Anki",
+    "useCase": ["Spaced Repetition", "Learning"],
+    "toolType": "Desktop Application",
+    "pricing": "Free",
+    "link": "https://ankiweb.net",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Spaced repetition flashcards with AI enhancements"
+  },
+  {
+    "id": 85,
+    "name": "Quizlet",
+    "useCase": ["Learning", "Flashcards"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://quizlet.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered study tools and flashcards"
+  },
+  {
+    "id": 86,
+    "name": "Coursera",
+    "useCase": ["Learning", "Education"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://coursera.org",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Online learning platform with AI course recommendations"
+  },
+  {
+    "id": 87,
+    "name": "Khan Academy",
+    "useCase": ["Learning", "Education"],
+    "toolType": "Web-based",
+    "pricing": "Free",
+    "link": "https://khanacademy.org",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Free education platform with AI tutoring features"
+  },
+  {
+    "id": 88,
+    "name": "Duolingo",
+    "useCase": ["Language Learning", "Education"],
+    "toolType": "Mobile App",
+    "pricing": "Freemium",
+    "link": "https://duolingo.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered language learning platform"
+  },
+  {
+    "id": 89,
+    "name": "Babbel",
+    "useCase": ["Language Learning", "Education"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://babbel.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Language learning with AI conversation practice"
+  },
+  {
+    "id": 90,
+    "name": "Rosetta Stone",
+    "useCase": ["Language Learning", "Education"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://rosettastone.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Language learning software with AI speech recognition"
+  },
+  {
+    "id": 91,
+    "name": "Socratic by Google",
+    "useCase": ["Education", "Homework Help"],
+    "toolType": "Mobile App",
+    "pricing": "Free",
+    "link": "https://socratic.org",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered homework help and learning assistant"
+  },
+  {
+    "id": 92,
+    "name": "Photomath",
+    "useCase": ["Math Solving", "Education"],
+    "toolType": "Mobile App",
+    "pricing": "Freemium",
+    "link": "https://photomath.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI math problem solver using camera recognition"
+  },
+  {
+    "id": 93,
+    "name": "Wolfram Alpha",
+    "useCase": ["Math Solving", "Knowledge Engine"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://wolframalpha.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Computational knowledge engine with AI capabilities"
+  },
+  {
+    "id": 94,
+    "name": "Symbolab",
+    "useCase": ["Math Solving", "Education"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://symbolab.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered math solver and calculator"
+  },
+  {
+    "id": 95,
+    "name": "Mathway",
+    "useCase": ["Math Solving", "Education"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://mathway.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI math problem solver for various topics"
+  },
+  {
+    "id": 96,
+    "name": "Calendly",
+    "useCase": ["Scheduling", "Productivity"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://calendly.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered scheduling and calendar management"
+  },
+  {
+    "id": 97,
+    "name": "Motion",
+    "useCase": ["Task Management", "Productivity"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://usemotion.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered task and calendar management"
+  },
+  {
+    "id": 98,
+    "name": "Reclaim.ai",
+    "useCase": ["Time Management", "Productivity"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://reclaim.ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI calendar assistant for time blocking"
+  },
+  {
+    "id": 99,
+    "name": "Clockify",
+    "useCase": ["Time Tracking", "Productivity"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://clockify.me",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Time tracking with AI-powered insights"
+  },
+  {
+    "id": 100,
+    "name": "RescueTime",
+    "useCase": ["Time Tracking", "Productivity"],
+    "toolType": "Desktop Application",
+    "pricing": "Freemium",
+    "link": "https://rescuetime.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered time tracking and productivity analysis"
+  },
+  {
+    "id": 101,
+    "name": "Zapier",
+    "useCase": ["Automation", "Workflow"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://zapier.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-enhanced workflow automation platform"
+  },
+  {
+    "id": 102,
+    "name": "IFTTT",
+    "useCase": ["Automation", "Smart Home"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://ifttt.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered automation for apps and devices"
+  },
+  {
+    "id": 103,
+    "name": "Make (Integromat)",
+    "useCase": ["Automation", "Integration"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://make.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Advanced automation platform with AI capabilities"
+  },
+  {
+    "id": 104,
+    "name": "Microsoft Power Automate",
+    "useCase": ["Automation", "Business Process"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://powerautomate.microsoft.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered business process automation"
+  },
+  {
+    "id": 105,
+    "name": "UiPath",
+    "useCase": ["RPA", "Business Automation"],
+    "toolType": "Desktop Application",
+    "pricing": "Freemium",
+    "link": "https://uipath.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-enhanced robotic process automation platform"
+  },
+  {
+    "id": 106,
+    "name": "Automation Anywhere",
+    "useCase": ["RPA", "Business Automation"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://automationanywhere.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Intelligent automation platform with AI"
+  },
+  {
+    "id": 107,
+    "name": "Blue Prism",
+    "useCase": ["RPA", "Enterprise Automation"],
+    "toolType": "Desktop Application",
+    "pricing": "Paid",
+    "link": "https://blueprism.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Enterprise RPA platform with AI capabilities"
+  },
+  {
+    "id": 108,
+    "name": "Salesforce Einstein",
+    "useCase": ["CRM", "Sales Analytics"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://salesforce.com/products/einstein",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered CRM and sales intelligence"
+  },
+  {
+    "id": 109,
+    "name": "HubSpot AI",
+    "useCase": ["CRM", "Marketing Automation"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://hubspot.com/artificial-intelligence",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-enhanced CRM and marketing platform"
+  },
+  {
+    "id": 110,
+    "name": "Pipedrive",
+    "useCase": ["CRM", "Sales Management"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://pipedrive.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "CRM with AI-powered sales insights"
+  },
+  {
+    "id": 111,
+    "name": "Zoho CRM",
+    "useCase": ["CRM", "Business Management"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://zoho.com/crm",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-enhanced CRM and business suite"
+  },
+  {
+    "id": 112,
+    "name": "Monday.com",
+    "useCase": ["Project Management", "Team Collaboration"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://monday.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Work management platform with AI features"
+  },
+  {
+    "id": 113,
+    "name": "Asana",
+    "useCase": ["Project Management", "Task Management"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://asana.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Project management with AI-powered insights"
+  },
+  {
+    "id": 114,
+    "name": "Trello",
+    "useCase": ["Project Management", "Kanban"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://trello.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Kanban project management with AI automation"
+  },
+  {
+    "id": 115,
+    "name": "ClickUp",
+    "useCase": ["Project Management", "Productivity"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://clickup.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "All-in-one workspace with AI writing assistant"
+  },
+  {
+    "id": 116,
+    "name": "Linear",
+    "useCase": ["Issue Tracking", "Project Management"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://linear.app",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Issue tracking with AI-powered features"
+  },
+  {
+    "id": 117,
+    "name": "Jira",
+    "useCase": ["Issue Tracking", "Agile Management"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://atlassian.com/software/jira",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Agile project management with AI insights"
+  },
+  {
+    "id": 118,
+    "name": "Confluence",
+    "useCase": ["Documentation", "Knowledge Management"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://atlassian.com/software/confluence",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Team workspace with AI content suggestions"
+  },
+  {
+    "id": 119,
+    "name": "Slack",
+    "useCase": ["Team Communication", "Collaboration"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://slack.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Team messaging with AI-powered features"
+  },
+  {
+    "id": 120,
+    "name": "Microsoft Teams",
+    "useCase": ["Team Communication", "Video Conferencing"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://teams.microsoft.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Collaboration platform with AI meeting features"
+  },
+  {
+    "id": 121,
+    "name": "Discord",
+    "useCase": ["Community", "Voice Chat"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://discord.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Community platform with AI moderation tools"
+  },
+  {
+    "id": 122,
+    "name": "Zoom",
+    "useCase": ["Video Conferencing", "Webinars"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://zoom.us",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Video conferencing with AI transcription and summaries"
+  },
+  {
+    "id": 123,
+    "name": "Google Meet",
+    "useCase": ["Video Conferencing", "Collaboration"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://meet.google.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Video meetings with AI-powered captions"
+  },
+  {
+    "id": 124,
+    "name": "Webex",
+    "useCase": ["Video Conferencing", "Enterprise Communication"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://webex.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Enterprise video conferencing with AI features"
+  },
+  {
+    "id": 125,
+    "name": "Miro",
+    "useCase": ["Whiteboarding", "Visual Collaboration"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://miro.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Online whiteboard with AI-powered templates"
+  },
+  {
+    "id": 126,
+    "name": "FigJam",
+    "useCase": ["Whiteboarding", "Brainstorming"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://figma.com/figjam",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Online whiteboard with AI brainstorming tools"
+  },
+  {
+    "id": 127,
+    "name": "Mural",
+    "useCase": ["Visual Collaboration", "Design Thinking"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://mural.co",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Digital workspace with AI-enhanced collaboration"
+  },
+  {
+    "id": 128,
+    "name": "Conceptboard",
+    "useCase": ["Visual Collaboration", "Project Planning"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://conceptboard.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Visual collaboration platform with AI features"
+  },
+  {
+    "id": 129,
+    "name": "Lucidchart",
+    "useCase": ["Diagramming", "Flowcharts"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://lucidchart.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Diagramming tool with AI-powered suggestions"
+  },
+  {
+    "id": 130,
+    "name": "Draw.io",
+    "useCase": ["Diagramming", "Flowcharts"],
+    "toolType": "Web-based",
+    "pricing": "Free",
+    "link": "https://draw.io",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Free diagramming tool with basic AI features"
+  },
+  {
+    "id": 131,
+    "name": "Visio",
+    "useCase": ["Diagramming", "Technical Drawing"],
+    "toolType": "Desktop Application",
+    "pricing": "Paid",
+    "link": "https://microsoft.com/en-us/microsoft-365/visio",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Professional diagramming with AI assistance"
+  },
+  {
+    "id": 132,
+    "name": "Creately",
+    "useCase": ["Diagramming", "Visual Planning"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://creately.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Visual workspace with AI-powered diagramming"
+  },
+  {
+    "id": 133,
+    "name": "Whimsical",
+    "useCase": ["Wireframing", "Mind Mapping"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://whimsical.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Visual workspace for wireframes and flowcharts"
+  },
+  {
+    "id": 134,
+    "name": "XMind",
+    "useCase": ["Mind Mapping", "Brainstorming"],
+    "toolType": "Desktop Application",
+    "pricing": "Freemium",
+    "link": "https://xmind.net",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Mind mapping software with AI enhancements"
+  },
+  {
+    "id": 135,
+    "name": "MindMeister",
+    "useCase": ["Mind Mapping", "Collaboration"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://mindmeister.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Online mind mapping with AI suggestions"
+  },
+  {
+    "id": 136,
+    "name": "SimpleMind",
+    "useCase": ["Mind Mapping", "Note Organization"],
+    "toolType": "Mobile App",
+    "pricing": "Freemium",
+    "link": "https://simplemind.eu",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Cross-platform mind mapping with AI features"
+  },
+  {
+    "id": 137,
+    "name": "Coggle",
+    "useCase": ["Mind Mapping", "Flow Charts"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://coggle.it",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Simple mind mapping with collaborative features"
+  },
+  {
+    "id": 138,
+    "name": "GitLab",
+    "useCase": ["DevOps", "Code Repository"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://gitlab.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "DevOps platform with AI-powered code suggestions"
+  },
+  {
+    "id": 139,
+    "name": "GitHub",
+    "useCase": ["Code Repository", "Version Control"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://github.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Code hosting with AI-powered features and Copilot"
+  },
+  {
+    "id": 140,
+    "name": "Bitbucket",
+    "useCase": ["Code Repository", "CI/CD"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://bitbucket.org",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Git repository management with AI insights"
+  },
+  {
+    "id": 141,
+    "name": "Azure DevOps",
+    "useCase": ["DevOps", "Project Management"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://azure.microsoft.com/en-us/services/devops",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "DevOps services with AI-powered analytics"
+  },
+  {
+    "id": 142,
+    "name": "Jenkins",
+    "useCase": ["CI/CD", "Automation"],
+    "toolType": "Open Source",
+    "pricing": "Free",
+    "link": "https://jenkins.io",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Open-source automation server with AI plugins"
+  },
+  {
+    "id": 143,
+    "name": "CircleCI",
+    "useCase": ["CI/CD", "DevOps"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://circleci.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Continuous integration with AI-powered insights"
+  },
+  {
+    "id": 144,
+    "name": "Travis CI",
+    "useCase": ["CI/CD", "Testing"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://travis-ci.org",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Continuous integration with automated testing"
+  },
+  {
+    "id": 145,
+    "name": "Docker",
+    "useCase": ["Containerization", "DevOps"],
+    "toolType": "Desktop Application",
+    "pricing": "Freemium",
+    "link": "https://docker.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Containerization platform with AI-enhanced features"
+  },
+  {
+    "id": 146,
+    "name": "Kubernetes",
+    "useCase": ["Container Orchestration", "DevOps"],
+    "toolType": "Open Source",
+    "pricing": "Free",
+    "link": "https://kubernetes.io",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Container orchestration with AI-powered management"
+  },
+  {
+    "id": 147,
+    "name": "Terraform",
+    "useCase": ["Infrastructure as Code", "Cloud Management"],
+    "toolType": "Open Source",
+    "pricing": "Freemium",
+    "link": "https://terraform.io",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Infrastructure automation with AI assistance"
+  },
+  {
+    "id": 148,
+    "name": "Ansible",
+    "useCase": ["Configuration Management", "Automation"],
+    "toolType": "Open Source",
+    "pricing": "Free",
+    "link": "https://ansible.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "IT automation platform with AI enhancements"
+  },
+  {
+    "id": 149,
+    "name": "Puppet",
+    "useCase": ["Configuration Management", "Infrastructure"],
+    "toolType": "Open Source",
+    "pricing": "Freemium",
+    "link": "https://puppet.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Infrastructure automation with AI-powered insights"
+  },
+  {
+    "id": 150,
+    "name": "Chef",
+    "useCase": ["Configuration Management", "Infrastructure"],
+    "toolType": "Open Source",
+    "pricing": "Freemium",
+    "link": "https://chef.io",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Infrastructure automation and configuration management"
+  },
+  {
+    "id": 151,
+    "name": "Datadog",
+    "useCase": ["Monitoring", "Analytics"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://datadoghq.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Infrastructure monitoring with AI-powered anomaly detection"
+  },
+  {
+    "id": 152,
+    "name": "New Relic",
+    "useCase": ["Application Monitoring", "Performance"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://newrelic.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Application performance monitoring with AI insights"
+  },
+  {
+    "id": 153,
+    "name": "Splunk",
+    "useCase": ["Log Analysis", "Security"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://splunk.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Data platform with AI-powered analytics and security"
+  },
+  {
+    "id": 154,
+    "name": "Elastic Stack",
+    "useCase": ["Search", "Analytics"],
+    "toolType": "Open Source",
+    "pricing": "Freemium",
+    "link": "https://elastic.co",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Search and analytics engine with machine learning"
+  },
+  {
+    "id": 155,
+    "name": "Grafana",
+    "useCase": ["Data Visualization", "Monitoring"],
+    "toolType": "Open Source",
+    "pricing": "Freemium",
+    "link": "https://grafana.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Data visualization platform with AI-powered alerts"
+  },
+  {
+    "id": 156,
+    "name": "Prometheus",
+    "useCase": ["Monitoring", "Alerting"],
+    "toolType": "Open Source",
+    "pricing": "Free",
+    "link": "https://prometheus.io",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Monitoring system with AI-enhanced alerting"
+  },
+  {
+    "id": 157,
+    "name": "Tableau",
+    "useCase": ["Data Visualization", "Business Intelligence"],
+    "toolType": "Desktop Application",
+    "pricing": "Paid",
+    "link": "https://tableau.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Data visualization with AI-powered insights"
+  },
+  {
+    "id": 158,
+    "name": "Power BI",
+    "useCase": ["Business Intelligence", "Data Analytics"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://powerbi.microsoft.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Business analytics with AI-powered insights"
+  },
+  {
+    "id": 159,
+    "name": "Looker",
+    "useCase": ["Business Intelligence", "Data Platform"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://looker.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Modern BI platform with AI-driven analytics"
+  },
+  {
+    "id": 160,
+    "name": "Qlik Sense",
+    "useCase": ["Data Analytics", "Self-Service BI"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://qlik.com/us/products/qlik-sense",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Self-service analytics with AI-powered insights"
+  },
+  {
+    "id": 161,
+    "name": "Sisense",
+    "useCase": ["Business Intelligence", "Data Analytics"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://sisense.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-driven analytics and business intelligence"
+  },
+  {
+    "id": 162,
+    "name": "Alteryx",
+    "useCase": ["Data Preparation", "Analytics"],
+    "toolType": "Desktop Application",
+    "pricing": "Paid",
+    "link": "https://alteryx.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Self-service data analytics with AI capabilities"
+  },
+  {
+    "id": 163,
+    "name": "Palantir",
+    "useCase": ["Big Data Analytics", "Enterprise"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://palantir.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Big data analytics platform with AI integration"
+  },
+  {
+    "id": 164,
+    "name": "Snowflake",
+    "useCase": ["Data Warehouse", "Cloud Analytics"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://snowflake.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Cloud data platform with AI and ML capabilities"
+  },
+  {
+    "id": 165,
+    "name": "Databricks",
+    "useCase": ["Data Science", "Machine Learning"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://databricks.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Unified analytics platform for big data and ML"
+  },
+  {
+    "id": 166,
+    "name": "Apache Spark",
+    "useCase": ["Big Data Processing", "Analytics"],
+    "toolType": "Open Source",
+    "pricing": "Free",
+    "link": "https://spark.apache.org",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Unified analytics engine with ML libraries"
+  },
+  {
+    "id": 167,
+    "name": "Jupyter Notebook",
+    "useCase": ["Data Science", "Research"],
+    "toolType": "Open Source",
+    "pricing": "Free",
+    "link": "https://jupyter.org",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Interactive computing environment for data science"
+  },
+  {
+    "id": 168,
+    "name": "Google Colab",
+    "useCase": ["Data Science", "Machine Learning"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://colab.research.google.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Cloud-based Jupyter notebook environment"
+  },
+  {
+    "id": 169,
+    "name": "Kaggle",
+    "useCase": ["Data Science", "Machine Learning"],
+    "toolType": "Web-based",
+    "pricing": "Free",
+    "link": "https://kaggle.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Data science platform with competitions and datasets"
+  },
+  {
+    "id": 170,
+    "name": "Weights & Biases",
+    "useCase": ["ML Experiment Tracking", "Model Management"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://wandb.ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "ML experiment tracking and model management"
+  },
+  {
+    "id": 171,
+    "name": "MLflow",
+    "useCase": ["ML Lifecycle Management", "Model Tracking"],
+    "toolType": "Open Source",
+    "pricing": "Free",
+    "link": "https://mlflow.org",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Open source ML lifecycle management platform"
+  },
+  {
+    "id": 172,
+    "name": "Kubeflow",
+    "useCase": ["ML Workflows", "Kubernetes"],
+    "toolType": "Open Source",
+    "pricing": "Free",
+    "link": "https://kubeflow.org",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "ML workflows on Kubernetes platform"
+  },
+  {
+    "id": 173,
+    "name": "TensorFlow",
+    "useCase": ["Machine Learning", "Deep Learning"],
+    "toolType": "Open Source",
+    "pricing": "Free",
+    "link": "https://tensorflow.org",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Open source machine learning framework"
+  },
+  {
+    "id": 174,
+    "name": "PyTorch",
+    "useCase": ["Machine Learning", "Deep Learning"],
+    "toolType": "Open Source",
+    "pricing": "Free",
+    "link": "https://pytorch.org",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Open source machine learning library"
+  },
+  {
+    "id": 175,
+    "name": "Scikit-learn",
+    "useCase": ["Machine Learning", "Data Mining"],
+    "toolType": "Open Source",
+    "pricing": "Free",
+    "link": "https://scikit-learn.org",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Machine learning library for Python"
+  },
+  {
+    "id": 176,
+    "name": "Hugging Face",
+    "useCase": ["NLP", "Model Hub"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://huggingface.co",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "NLP models and datasets platform"
+  },
+  {
+    "id": 177,
+    "name": "OpenAI API",
+    "useCase": ["AI Integration", "Language Models"],
+    "toolType": "API",
+    "pricing": "Paid",
+    "link": "https://openai.com/api",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "API access to GPT and other AI models"
+  },
+  {
+    "id": 178,
+    "name": "Anthropic API",
+    "useCase": ["AI Integration", "Language Models"],
+    "toolType": "API",
+    "pricing": "Paid",
+    "link": "https://anthropic.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "API access to Claude AI models"
+  },
+  {
+    "id": 179,
+    "name": "Google AI Platform",
+    "useCase": ["Machine Learning", "Cloud AI"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://cloud.google.com/ai-platform",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Google's cloud-based AI and ML platform"
+  },
+  {
+    "id": 180,
+    "name": "AWS SageMaker",
+    "useCase": ["Machine Learning", "Model Development"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://aws.amazon.com/sagemaker",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Amazon's machine learning platform"
+  },
+  {
+    "id": 181,
+    "name": "Azure Machine Learning",
+    "useCase": ["Machine Learning", "Cloud AI"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://azure.microsoft.com/en-us/services/machine-learning",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Microsoft's cloud ML platform"
+  },
+  {
+    "id": 182,
+    "name": "IBM Watson",
+    "useCase": ["Enterprise AI", "Cognitive Computing"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://ibm.com/watson",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "IBM's enterprise AI and cognitive computing platform"
+  },
+  {
+    "id": 183,
+    "name": "H2O.ai",
+    "useCase": ["AutoML", "Machine Learning"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://h2o.ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Open source AutoML and machine learning platform"
+  },
+  {
+    "id": 184,
+    "name": "DataRobot",
+    "useCase": ["AutoML", "Predictive Analytics"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://datarobot.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Enterprise AutoML platform for predictive analytics"
+  },
+  {
+    "id": 185,
+    "name": "AutoML by Google",
+    "useCase": ["AutoML", "Custom Models"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://cloud.google.com/automl",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Google's automated machine learning platform"
+  },
+  {
+    "id": 186,
+    "name": "Obviously AI",
+    "useCase": ["No-Code ML", "Predictive Analytics"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://obviously.ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "No-code machine learning platform"
+  },
+  {
+    "id": 187,
+    "name": "BigML",
+    "useCase": ["Machine Learning", "Predictive Models"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://bigml.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Machine learning platform for predictive applications"
+  },
+  {
+    "id": 188,
+    "name": "MonkeyLearn",
+    "useCase": ["Text Analysis", "NLP"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://monkeylearn.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Text analysis and NLP platform"
+  },
+  {
+    "id": 189,
+    "name": "Clarifai",
+    "useCase": ["Computer Vision", "Image Recognition"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://clarifai.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Computer vision and image recognition platform"
+  },
+  {
+    "id": 190,
+    "name": "Rekognition by AWS",
+    "useCase": ["Image Analysis", "Facial Recognition"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://aws.amazon.com/rekognition",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Amazon's image and video analysis service"
+  },
+  {
+    "id": 191,
+    "name": "Azure Computer Vision",
+    "useCase": ["Image Analysis", "OCR"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Microsoft's computer vision and OCR service"
+  },
+  {
+    "id": 192,
+    "name": "Google Vision AI",
+    "useCase": ["Image Analysis", "Document AI"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://cloud.google.com/vision",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Google's computer vision and document analysis"
+  },
+  {
+    "id": 193,
+    "name": "Tesseract OCR",
+    "useCase": ["OCR", "Text Recognition"],
+    "toolType": "Open Source",
+    "pricing": "Free",
+    "link": "https://tesseract-ocr.github.io",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Open source optical character recognition engine"
+  },
+  {
+    "id": 194,
+    "name": "ABBYY FineReader",
+    "useCase": ["OCR", "Document Processing"],
+    "toolType": "Desktop Application",
+    "pricing": "Paid",
+    "link": "https://abbyy.com/finereader",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Professional OCR and document conversion software"
+  },
+  {
+    "id": 195,
+    "name": "Adobe Acrobat AI",
+    "useCase": ["PDF Processing", "Document AI"],
+    "toolType": "Desktop Application",
+    "pricing": "Paid",
+    "link": "https://adobe.com/acrobat",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "PDF software with AI-powered document features"
+  },
+  {
+    "id": 196,
+    "name": "Zapier AI",
+    "useCase": ["Workflow Automation", "AI Integration"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://zapier.com/ai",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered workflow automation and integration"
+  },
+  {
+    "id": 197,
+    "name": "Bubble",
+    "useCase": ["No-Code Development", "App Building"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://bubble.io",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "No-code platform with AI-powered features"
+  },
+  {
+    "id": 198,
+    "name": "Webflow",
+    "useCase": ["Web Design", "No-Code"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://webflow.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Visual web design platform with AI assistance"
+  },
+  {
+    "id": 199,
+    "name": "Framer",
+    "useCase": ["Web Design", "Prototyping"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://framer.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Web design and prototyping with AI features"
+  },
+  {
+    "id": 200,
+    "name": "Wix ADI",
+    "useCase": ["Website Building", "AI Design"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://wix.com/adi",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "AI-powered website builder and design assistant"
+  },
+  {
+    "id": 201,
+    "name": "Squarespace",
+    "useCase": ["Website Building", "E-commerce"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://squarespace.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Website builder with AI-powered design suggestions"
+  },
+  {
+    "id": 202,
+    "name": "WordPress AI",
+    "useCase": ["Content Management", "Website Building"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://wordpress.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Content management system with AI writing tools"
+  },
+  {
+    "id": 203,
+    "name": "Shopify Magic",
+    "useCase": ["E-commerce", "Online Store"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://shopify.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "E-commerce platform with AI-powered features"
+  },
+  {
+    "id": 204,
+    "name": "Mailchimp AI",
+    "useCase": ["Email Marketing", "Marketing Automation"],
+    "toolType": "Web-based",
+    "pricing": "Freemium",
+    "link": "https://mailchimp.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Email marketing platform with AI optimization"
+  },
+  {
+    "id": 205,
+    "name": "Constant Contact",
+    "useCase": ["Email Marketing", "Small Business"],
+    "toolType": "Web-based",
+    "pricing": "Paid",
+    "link": "https://constantcontact.com",
+    "logo": "/placeholder.svg?height=40&width=40",
+    "description": "Email marketing with AI-powered campaign optimization"
+  }
+]
